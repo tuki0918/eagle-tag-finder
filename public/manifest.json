@@ -1,0 +1,12 @@
+{
+  "id": "EAGLETAGFINDERTUKI0918",
+  "version": "0.1.0",
+  "name": "Eagle Tag Finder",
+  "logo": "logo.png",
+  "keywords": ["tag", "thumbnail", "finder"],
+  "main": {
+    "url": "index.html",
+    "width": 980,
+    "height": 720
+  }
+}
