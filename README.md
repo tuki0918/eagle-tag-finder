@@ -8,9 +8,8 @@ A plugin that helps you quickly search Eagle tags and browse them with thumbnail
 ## Features
 - Search tags with suggestions
 - Click a tag card to copy the tag name to the clipboard
-- Filter switching (All / Starred / Recent)
-- Multi-select tag group filters
-- Per-page size control and pagination
+- Filter tags (All / Starred / Recent)
+- Filter tags by group
 
 ## Development Notes
 The following features are not available due to API limitations:
